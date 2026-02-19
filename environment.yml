@@ -1,0 +1,9 @@
+name: exp-synth
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - conda-forge::spot==2.11.6
+  - pip
+  - pip:
+      - -e .

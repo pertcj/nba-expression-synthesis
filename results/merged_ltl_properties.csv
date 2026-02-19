@@ -1,0 +1,186 @@
+index,mp_class,safety_liveness,stutter_invariant,pathological
+0,recurrence,liveness,syntactic stutter-invariant,False
+1,safety,safety,stutter-sensitive,False
+2,safety,safety,syntactic stutter-invariant,False
+3,recurrence,liveness,syntactic stutter-invariant,False
+4,recurrence,liveness,syntactic stutter-invariant,False
+5,recurrence,liveness,syntactic stutter-invariant,False
+6,reactivity,none,syntactic stutter-invariant,False
+7,reactivity,none,syntactic stutter-invariant,False
+8,reactivity,none,syntactic stutter-invariant,False
+9,safety,safety,stutter-sensitive,False
+10,safety,safety,stutter-sensitive,False
+11,safety,safety,stutter-sensitive,False
+12,safety,safety,stutter-sensitive,False
+13,safety,safety,stutter-sensitive,False
+14,safety,safety,stutter-sensitive,False
+15,safety,safety,stutter-sensitive,False
+16,safety,safety,stutter-sensitive,False
+17,safety,safety,stutter-sensitive,False
+18,safety,safety,stutter-sensitive,False
+19,safety,safety,stutter-sensitive,False
+20,safety,safety,stutter-sensitive,False
+21,Timeout or Error,,,
+22,Timeout or Error,,,
+23,Timeout or Error,,,
+24,safety,safety,stutter-sensitive,False
+25,safety,safety,stutter-sensitive,False
+26,safety,safety,stutter-sensitive,False
+27,safety,safety,stutter-sensitive,False
+28,safety,safety,stutter-sensitive,False
+29,safety,safety,stutter-sensitive,False
+30,safety,safety,stutter-sensitive,False
+31,safety,safety,stutter-sensitive,False
+32,safety,safety,stutter-sensitive,False
+33,safety,safety,stutter-sensitive,False
+34,safety,safety,stutter-sensitive,False
+35,safety,safety,stutter-sensitive,False
+36,Timeout or Error,,,
+37,Timeout or Error,,,
+38,Timeout or Error,,,
+39,safety,safety,syntactic stutter-invariant,True
+40,obligation,liveness,syntactic stutter-invariant,True
+41,safety,safety,syntactic stutter-invariant,True
+42,safety,safety,syntactic stutter-invariant,True
+43,safety,safety,stutter-sensitive,True
+44,safety,safety,stutter-sensitive,True
+45,safety,safety,stutter-sensitive,True
+46,safety,safety,stutter-sensitive,True
+47,safety,safety,stutter-sensitive,True
+48,safety,safety,stutter-sensitive,True
+49,Timeout or Error,,,
+50,Timeout or Error,,,
+51,safety,safety,stutter-sensitive,True
+52,safety,safety,stutter-sensitive,True
+53,safety,safety,stutter-sensitive,True
+54,safety,safety,stutter-sensitive,True
+55,safety,safety,stutter-sensitive,True
+56,safety,safety,stutter-sensitive,True
+57,safety,safety,stutter-sensitive,True
+58,safety,safety,stutter-sensitive,True
+59,recurrence,liveness,stutter-sensitive,False
+60,recurrence,liveness,stutter-sensitive,False
+61,recurrence,liveness,stutter-sensitive,False
+62,recurrence,liveness,stutter-sensitive,False
+63,recurrence,liveness,stutter-sensitive,False
+64,recurrence,liveness,stutter-sensitive,False
+65,recurrence,liveness,stutter-sensitive,False
+66,recurrence,liveness,stutter-sensitive,False
+67,Timeout or Error,,,
+68,Timeout or Error,,,
+69,Timeout or Error,,,
+70,Timeout or Error,,,
+71,Timeout or Error,,,
+72,Timeout or Error,,,
+73,Timeout or Error,,,
+74,Timeout or Error,,,
+75,Timeout or Error,,,
+76,Timeout or Error,,,
+77,Timeout or Error,,,
+78,Timeout or Error,,,
+79,Timeout or Error,,,
+80,Timeout or Error,,,
+81,Timeout or Error,,,
+82,Timeout or Error,,,
+83,Timeout or Error,,,
+84,Timeout or Error,,,
+85,Timeout or Error,,,
+86,Timeout or Error,,,
+87,Timeout or Error,,,
+88,Timeout or Error,,,
+89,Timeout or Error,,,
+90,Timeout or Error,,,
+91,obligation,liveness,stutter-sensitive,True
+92,obligation,none,stutter-sensitive,True
+93,obligation,liveness,stutter-sensitive,True
+94,obligation,none,stutter-sensitive,True
+95,obligation,liveness,stutter-sensitive,True
+96,obligation,none,stutter-sensitive,True
+97,obligation,liveness,stutter-sensitive,True
+98,Timeout or Error,,,
+99,Timeout or Error,,,
+100,Timeout or Error,,,
+101,Timeout or Error,,,
+102,Timeout or Error,,,
+103,recurrence,liveness,stutter-sensitive,True
+104,persistence,none,stutter-sensitive,True
+105,recurrence,none,stutter-sensitive,False
+106,persistence,none,stutter-sensitive,False
+107,recurrence,liveness,stutter-sensitive,False
+108,persistence,none,stutter-sensitive,False
+109,recurrence,liveness,stutter-sensitive,False
+110,persistence,none,stutter-sensitive,False
+111,recurrence,liveness,stutter-sensitive,False
+112,persistence,none,stutter-sensitive,False
+113,reactivity,liveness,stutter-sensitive,False
+114,reactivity,none,stutter-sensitive,False
+115,recurrence,liveness,stutter-sensitive,True
+116,persistence,none,stutter-sensitive,True
+117,recurrence,liveness,stutter-sensitive,True
+118,persistence,none,stutter-sensitive,True
+119,recurrence,liveness,stutter-sensitive,True
+120,persistence,none,stutter-sensitive,True
+121,recurrence,liveness,stutter-sensitive,True
+122,persistence,none,stutter-sensitive,True
+123,recurrence,none,stutter-sensitive,False
+124,persistence,liveness,stutter-sensitive,False
+125,recurrence,none,stutter-sensitive,False
+126,persistence,liveness,stutter-sensitive,False
+127,obligation,liveness,stutter-sensitive,True
+128,obligation,none,stutter-sensitive,True
+129,obligation,liveness,stutter-sensitive,True
+130,obligation,none,stutter-sensitive,True
+131,obligation,liveness,stutter-sensitive,True
+132,obligation,none,stutter-sensitive,True
+133,obligation,liveness,stutter-sensitive,True
+134,obligation,none,stutter-sensitive,True
+135,reactivity,liveness,syntactic stutter-invariant,False
+136,reactivity,liveness,syntactic stutter-invariant,False
+137,reactivity,liveness,syntactic stutter-invariant,False
+138,reactivity,liveness,syntactic stutter-invariant,False
+139,reactivity,liveness,syntactic stutter-invariant,False
+140,reactivity,liveness,syntactic stutter-invariant,False
+141,persistence,liveness,syntactic stutter-invariant,False
+142,recurrence,liveness,syntactic stutter-invariant,False
+143,recurrence,liveness,syntactic stutter-invariant,False
+144,persistence,liveness,syntactic stutter-invariant,False
+145,guarantee,liveness,syntactic stutter-invariant,False
+146,safety,safety,syntactic stutter-invariant,False
+147,reactivity,none,syntactic stutter-invariant,False
+148,reactivity,liveness,syntactic stutter-invariant,False
+149,recurrence,none,syntactic stutter-invariant,False
+150,persistence,liveness,syntactic stutter-invariant,False
+151,recurrence,none,syntactic stutter-invariant,False
+152,persistence,liveness,syntactic stutter-invariant,False
+153,reactivity,none,syntactic stutter-invariant,False
+154,reactivity,liveness,syntactic stutter-invariant,False
+155,reactivity,none,syntactic stutter-invariant,False
+156,reactivity,liveness,syntactic stutter-invariant,False
+157,reactivity,liveness,syntactic stutter-invariant,False
+158,reactivity,liveness,syntactic stutter-invariant,False
+159,reactivity,liveness,stutter-sensitive,False
+160,reactivity,none,stutter-sensitive,False
+161,obligation,liveness,stutter-sensitive,False
+162,obligation,none,stutter-sensitive,False
+163,persistence,liveness,stutter-sensitive,False
+164,recurrence,none,stutter-sensitive,False
+165,safety,safety,syntactic stutter-invariant,True
+166,guarantee,none,syntactic stutter-invariant,True
+167,safety,safety,syntactic stutter-invariant,True
+168,guarantee,none,syntactic stutter-invariant,True
+169,Timeout or Error,,,
+170,Timeout or Error,,,
+171,Timeout or Error,,,
+172,Timeout or Error,,,
+173,Timeout or Error,,,
+174,Timeout or Error,,,
+175,Timeout or Error,,,
+176,Timeout or Error,,,
+177,Timeout or Error,,,
+178,Timeout or Error,,,
+179,Timeout or Error,,,
+180,Timeout or Error,,,
+181,Timeout or Error,,,
+182,Timeout or Error,,,
+183,Timeout or Error,,,
+184,Timeout or Error,,,

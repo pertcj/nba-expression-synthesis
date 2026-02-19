@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nba-expression-synthesis"
+version = "0.1.0"
+description = "LTL-to-regex synthesis and evaluation utilities."
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+py-modules = ["compute", "solve"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["nba_expression_synthesis*"]

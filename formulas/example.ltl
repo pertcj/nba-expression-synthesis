@@ -1,0 +1,1 @@
+LTLSPEC (G (!(cs1 & cs2))) & (G (!(outofcs1 & outofcs2))) & ((G F p1_running & G F p2_running & G F p3_running ) -> (G  F cs1)) & ((G F p1_running & G F p2_running & G F p3_running ) -> (G  F cs2)) & ((G F p1_running & G F p2_running & G F p3_running ) -> (G  F cs3))
